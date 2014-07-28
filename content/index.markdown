@@ -1,5 +1,6 @@
 ---
-title : Home
+title : Index
+category : other
 ---
 <%= @item[:title] %>
 ====================
