@@ -104,8 +104,11 @@ a:hover {
   line-height: 20px;
 }
 
-/* test: add in the syntax highlighting */
+img {
+    max-width: 100%;
+}
 
+/* test: add in the syntax highlighting */
 code {
   background-color: #F0F0F0;
   border: 1px solid black;
