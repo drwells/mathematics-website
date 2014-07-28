@@ -14,6 +14,10 @@ points](http://people.sc.fsu.edu/~jburkardt/datasets/quadrature_rules_tri/quadra
 as well as some [numerical
 programs](http://people.sc.fsu.edu/~jburkardt/m_src/dunavant/dunavant.html).
 
+Dr. Stone has a (for all intents and purposes) exhaustive list of Runge Kutta
+methods available
+[at his website](http://www.peterstone.name/Maplepgs/RKcoeff.html).
+
 
 The majority of my own work (including this webpage) is on my
 [Github](http://www.github.com/drwells) page.
