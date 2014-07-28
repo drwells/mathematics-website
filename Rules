@@ -16,7 +16,7 @@ compile '*' do
     filter :erb
     filter :kramdown
     filter :colorize_syntax,
-           :colorizers => { :ruby => :coderay}
+           :colorizers => { :ruby => :coderay, :python => :coderay}
     layout 'default'
     filter :relativize_paths, :type => :html
   end
